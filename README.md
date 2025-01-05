@@ -65,7 +65,7 @@ Here's how it works:
 
 ### 📹 Demo Video:
 Click below to see the program in action directly on GitHub!  
-[![Watch the video](https://drive.google.com/file/d/177vskUyiMYOhozTfo9L9tIJXVBj-2a4y/view?usp=sharing)
+![Watch the video](output_video_2.gif)
 
 ---
 
