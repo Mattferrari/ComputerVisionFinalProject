@@ -10,7 +10,7 @@
 - 🧑‍💻 Jorge Moratalla Vita
 
 ---
-### Codes to check:
+### 📜 Codes to check:
 - main.py
 - calibrar.py
 - password.py
