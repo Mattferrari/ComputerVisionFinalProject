@@ -81,9 +81,3 @@ Click below to see the program in action directly on GitHub!
 - Modular coding practices to keep projects organized and maintainable.
 
 ---
-
-### 🚀 Getting Started:
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your_repo.git
-   cd your_repo
