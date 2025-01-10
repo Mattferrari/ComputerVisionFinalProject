@@ -10,11 +10,6 @@
 - 🧑‍💻 Jorge Moratalla Vita
 
 ---
-### 📜 Codes to check:
-- main.py
-- calibrar.py
-- password.py
-- carDetection.py
 
 ### 📜 Description:
 This is our **Computer Vision Final Project**. The project is a fun and interactive application that combines object detection, password authentication, and live video processing. 
@@ -48,14 +43,14 @@ Here's how it works:
    - Implemented line crossing logic to count cars and track lap times.
 
 3. **Video Processing**:  
-   - Utilized the Raspberry Pi camera to capture live footage.
-   - Integrated **OpenCV** for real-time processing and rendering.
+   - Utilized the Raspberry Pi camera to capture live video.
 
 4. **Code Modularity**:  
    - Divided the functionality into separate modules for clarity:
      - `password.py`: Handles password verification.
      - `carDetection.py`: Contains logic for car detection and tracking.
      - `main.py`: The main entry point that integrates all components.
+     
 
 ---
 
@@ -64,6 +59,7 @@ Here's how it works:
 - `password.py`: Handles shape-based password verification.
 - `carDetection.py`: Implements color-based car tracking.
 - `output_video.avi`: Video file of a recorded session (auto-generated when you run the program).
+- `calibrar.py`: Code to find the internal and external parameters of the camera.
 
 ---
 
