@@ -10,6 +10,11 @@
 - 🧑‍💻 Jorge Moratalla Vita
 
 ---
+### Codes to check:
+- main.py
+- calibrar.py
+- password.py
+- carDetection.py
 
 ### 📜 Description:
 This is our **Computer Vision Final Project**. The project is a fun and interactive application that combines object detection, password authentication, and live video processing. 
