@@ -36,7 +36,6 @@ Here's how it works:
 - 🌈 **Color Detection**: Differentiates cars based on predefined color ranges (e.g., HSV for green and blue).
 - 🎥 **Video Recording**: Records the entire session in a video file for review.
 - 📊 **FPS Counter**: Displays real-time frame rates for performance monitoring.
-- 🛠 **Single Window Display**: Ensures all interactions occur in the same window for simplicity and user convenience.
 
 ---
 
