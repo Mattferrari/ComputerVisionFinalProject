@@ -31,7 +31,6 @@ Here's how it works:
 - 🌈 **Color Detection**: Differentiates cars based on predefined color ranges (e.g., HSV for green and blue).
 - 🎥 **Video Recording**: Records the entire session in a video file for review.
 - 📊 **FPS Counter**: Displays real-time frame rates for performance monitoring.
-- 🛠 **Single Window Display**: Ensures all interactions occur in the same window for simplicity and user convenience.
 
 ---
 
@@ -47,14 +46,14 @@ Here's how it works:
    - Implemented line crossing logic to count cars and track lap times.
 
 3. **Video Processing**:  
-   - Utilized the Raspberry Pi camera to capture live footage.
-   - Integrated **OpenCV** for real-time processing and rendering.
+   - Utilized the Raspberry Pi camera to capture live video.
 
 4. **Code Modularity**:  
    - Divided the functionality into separate modules for clarity:
      - `password.py`: Handles password verification.
      - `carDetection.py`: Contains logic for car detection and tracking.
      - `main.py`: The main entry point that integrates all components.
+     
 
 ---
 
@@ -63,6 +62,7 @@ Here's how it works:
 - `password.py`: Handles shape-based password verification.
 - `carDetection.py`: Implements color-based car tracking.
 - `output_video.avi`: Video file of a recorded session (auto-generated when you run the program).
+- `calibrar.py`: Code to find the internal and external parameters of the camera.
 
 ---
 
@@ -79,9 +79,3 @@ Click below to see the program in action directly on GitHub!
 - Modular coding practices to keep projects organized and maintainable.
 
 ---
-
-### 🚀 Getting Started:
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your_repo.git
-   cd your_repo
