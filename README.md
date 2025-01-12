@@ -35,7 +35,20 @@ Here's how it works:
 ---
 
 ### 📷​ Camera calibration:
-- The results of the camera calibration (Root Mean Square Error): 0.8421997 
+- **The results of the camera calibration**:
+   Intrinsics:
+   [[1.45217681e+03 0.00000000e+00 6.36171498e+02]
+   [0.00000000e+00 1.44754507e+03 3.51422378e+02]
+   [0.00000000e+00 0.00000000e+00 1.00000000e+00]]
+
+   Distortion coefficients:
+   [[-2.55923570e-02 1.37611973e+00 -1.85362544e-03 -3.11270538e-03
+   -6.35759530e+00]]
+
+   Root mean squared reprojection error:
+   0.8421997191144631
+
+---
 
 ### 🛠 How We Did It:
 1. **Password Implementation**:  
