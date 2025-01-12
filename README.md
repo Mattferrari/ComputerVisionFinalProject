@@ -35,6 +35,9 @@ Here's how it works:
 
 ---
 
+### 📷​ Camera calibration:
+- The results of the camera calibration (Root Mean Square Error): 0.8421997 
+
 ### 🛠 How We Did It:
 1. **Password Implementation**:  
    - Used **Shi-Tomasi Corner Detection** and a shape classifier to identify geometric patterns. The user must display these patterns in the correct order to proceed.
